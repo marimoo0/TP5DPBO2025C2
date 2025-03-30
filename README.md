@@ -6,7 +6,7 @@ Saya Khana Yusdiana NIM 2100991 mengerjakan soal TP 5 dalam mata kuliah Desain d
 
 ## -- Desain Program --
 
-![1]()
+![1](https://github.com/marimoo0/TP5DPBO2025C2/blob/c6d06caf4d6720383f7851fac70df03b35e557ef/Design.png)
 
 Koneksi ke Database
 
